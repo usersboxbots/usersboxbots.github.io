@@ -1,4 +1,4 @@
-- links:
+# - links:
   - name: Pricing
     link: /pricing/
   - name: Blog
@@ -7,7 +7,7 @@
     link: /about/
   - name: Contact
     link: /contact/
-- links:
+# - links:
   - name: Login
     link: /
     new_window: true
@@ -20,7 +20,7 @@
   - name: Status
     link: /
     new_window: true
-- links:
+# - links:
   - name: Facebook
     link: https://facebook.com/cloudcannon/
     new_window: true
