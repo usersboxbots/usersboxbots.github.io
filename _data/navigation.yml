@@ -1,24 +1,24 @@
-- name: Pricing
+# - name: Pricing
   link: /pricing/
   new_window: false
   highlight: false
-- name: Blog
+# - name: Blog
   link: /blog/
   new_window: false
   highlight: false
-- name: About
+# - name: About
   link: /about/
   new_window: false
   highlight: false
-- name: Contact
+# - name: Contact
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
+# - name: Login
   link: /
   new_window: true
   highlight: false
-- name: Sign Up
+# - name: Sign Up
   link: /
   new_window: true
   highlight: true
