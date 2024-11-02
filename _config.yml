@@ -1,24 +1,24 @@
 # ----
 # Site
 
-title: Hydra Template
-url: "https://proud-alligator.cloudvent.net"
+title: UsersBox
+url: "usersbox.tech"
 baseurl:
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
 
-# Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
+# Values for the jekyll-seo-tag gem (usersbox.tech)
 logo: /siteicon.png
-description: Product marketing template for Jekyll.
+description: Юзербокс - телеграм бот для поиска информации по номеру телефона.
 author:
   name:
   email:
-  twitter: # twitter username without the @ symbol
+  twitter: # 
 social:
-  name: Hydra Template
+  name: UsersBox Template
   links:
-    - https://github.com/CloudCannon/hydra-jekyll-template
+    - usersbox.tech
 
 # -----
 # Build
