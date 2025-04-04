@@ -3,4 +3,4 @@ layout: null
 sitemap: false
 ---
 User-agent: *
-Sitemap: https://usersbox.tech/sitemap.xml
+Sitemap: https://usersbox.top/sitemap.xml
