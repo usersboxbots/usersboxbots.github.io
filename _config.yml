@@ -2,7 +2,7 @@
 # Site
 
 title: Юзерс Бокс / UsersBox
-url: "https://usersbox.tech"
+url: "https://usersbox.top"
 locale: ru
 baseurl: "/"
 # google_analytics_key:
@@ -19,7 +19,7 @@ author:
 social:
   name: UsersBox Template
   links:
-    - usersbox.tech
+    - usersbox.top
 
 # -----
 # Build
